@@ -1,4 +1,4 @@
-PRIME THEME | NamelessMC Template
+PRIME Template for NamelessMC (DISCONTINUED)
 
 How to install:
 
