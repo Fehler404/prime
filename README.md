@@ -1,4 +1,4 @@
-PRIME Template for NamelessMC (DISCONTINUED)
+PRIME Template for NamelessMC (v1.5)
 
 How to install:
 
